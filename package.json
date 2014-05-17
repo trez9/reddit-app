@@ -18,5 +18,10 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jane-doe/node-example/issues"
-  }
+  },
+    "dependencies": {
+        "express": "~4.2.0",
+        "logfmt":"~1.1.2",
+        "restler": "2.x.x"
+    }
 }
